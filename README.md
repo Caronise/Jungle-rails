@@ -17,15 +17,15 @@ A mini e-commerce application built with Rails 4.2, using stripe verification AP
 
 ## Final Product
 
-!["Home page view"]()
+!["Home page view"](https://raw.githubusercontent.com/Caronise/Jungle-rails/master/docs/main_page.png)
 
-!["Product page with item details"]()
+!["Product page with item details"](https://raw.githubusercontent.com/Caronise/Jungle-rails/master/docs/product_page.png)
 
-!["My Cart page displaying items and total price, with payment functionality using the Stripe API"]()
+!["My Cart page displaying items and total price, with payment functionality using the Stripe API"](https://raw.githubusercontent.com/Caronise/Jungle-rails/master/docs/payment.png)
 
-!["Order receipt page displaying the item bought and total order price"]()
+!["Order receipt page displaying the item bought and total order price"](https://raw.githubusercontent.com/Caronise/Jungle-rails/master/docs/order.png)
 
-!["Example of admin section where the admin can manage/add products"]()
+!["Example of admin section where the admin can manage/add products"](https://raw.githubusercontent.com/Caronise/Jungle-rails/master/docs/admin.png)
 
 ## Getting Started
 
